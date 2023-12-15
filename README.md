@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```py
 python tts.py
 ```
+
+Agora, você pode digitar o que quiser que seja reproduzido e enviar.
